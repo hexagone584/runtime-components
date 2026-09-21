@@ -1,3 +1,3 @@
-Just some repo contain rc's for cs193
+Just some repo that contains rc's for cs193
 
 - Jackie Yang
